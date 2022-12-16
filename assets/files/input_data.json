@@ -1,0 +1,17 @@
+{
+    "total_boxes":"Total No of Boxes to be displayed on each side",
+    "total_selections":"Max No of Total Selections allowed for selecting\n on born the sides",
+    "alphabets_allowed":"Max No of Alphabets allowed for selecting",
+    "numbers_allowed":"Max No of Numbers allowed for selecting",
+    "error1":"Unable to select as Max No of Alphabet reached (input_value)",
+    "error2":"Unable to select as Max No of Numbers reached (input_value)",
+    "error3":"Unable to select as Max No of Selections Reached (input_value)",
+    "error4":"You cannot enter value more than input_value in Max No of Selections.",
+    "error5":"You cannot enter value more than input_value in Max No of Alphabets",
+    "error6":"You cannot enter value more than input_value in Max No of Numbers ",
+    "error7":"Only Max of input_value select boxes can be Created, enter value less than or equal to input_value",
+    "reset":"Reset all values to 'O'",
+    "success":"Success",
+    "alphabets":"ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "numbers":"1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30"
+}
