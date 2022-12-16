@@ -10,6 +10,7 @@ void main() {
       title: "Selections Assessment",
       initialRoute: AppPages.initial,
       getPages: AppPages.routes,
+      debugShowCheckedModeBanner: false,
     ),
   );
 }
