@@ -1,4 +1,4 @@
-# selections
+# dynamic_selections
 
 A new Flutter project.
 
